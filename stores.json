@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.399907,	43.674650]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.404837,43.675228	
+
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.401938,43.675511 ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to become more eco-friendly.",
+                "name": "Trash Can",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.378112, 43.702088
+
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.594843,	43.701362
+
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.595806,	43.701043]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.600769,	43.69981]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.600769,	43.69981]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to save the Earth.",
+                "name": "Trash Can",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.260939, 
+                    43.714379
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "tc",
+                "description": "Throw your trash here to become more eco-friendly.",
+                "name": "Trash Can",
+                "storeid": "09"
+            }
+        }
+         
+    ]
+}
